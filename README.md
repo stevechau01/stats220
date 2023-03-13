@@ -1,13 +1,15 @@
 # stats220
-
+this is my repo for stats220
 ## Q&A
 **1. Who am I**
-* i am `Steve`,i am new to github,still learning how every thing work here
+* i am a stats student,i am new to github,still learning how every thing work here
 
 **2. Why I use github**
-* i use github because is for my stats study
+* i am useing github for my Stats study
 
 *i will try to learn more about github and make this better*
+
+follow me if you want to see more work of my tinue syudy.
 
 ![](https://media.tenor.com/CyNpv6r5tJIAAAAC/hi-new-friend-izzy-moonbow.gif)
 
