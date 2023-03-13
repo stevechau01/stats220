@@ -1,13 +1,13 @@
 # stats220
 this is my repo for stats220
 ## Q&A
-**1. Who am I**
+**1. __Who__ am I**
 * i am a stats student,i am new to github,still learning how every thing work here
 
-**2. Why I use github**
+**2. __Why__ I use github**
 * i am useing github for my Stats study
 
-*i will try to learn more about github and make this better*
+*i will try to learn more about __github__ and make this better*
 
 follow me if you want to see more work of my tinue syudy.
 
